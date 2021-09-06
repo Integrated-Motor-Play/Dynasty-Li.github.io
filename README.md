@@ -1,2 +1,1 @@
-# Dynasty-Li.github.io
-Xiang Li's HomePage
+Xiang Li's acadmic webpage. Source code from Jon Barron's website: https://jonbarron.info/
