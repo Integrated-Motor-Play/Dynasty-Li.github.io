@@ -1,1 +1,1 @@
-Xiang Li's acadmic webpage. Source code from Jon Barron's website: https://jonbarron.info/
+Xiang Li's acadmic webpage. 
